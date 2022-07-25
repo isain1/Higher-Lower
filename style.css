@@ -1,0 +1,51 @@
+body {
+    background-color: aqua;
+
+}
+header {
+    background-color: grey;
+    margin-bottom: 100px;
+}
+
+h1 {
+    text-align: center;
+
+}
+
+h3{
+    text-align: center;
+}
+
+form {
+    text-align: center;
+}
+
+#guessPrompt {
+    text-align: center;
+    font-size: 25px
+}
+
+#userInput {
+    text-align: center;
+    margin-right: 15px;
+}
+
+#button{
+    text-align: center
+    
+    
+}
+
+#response {
+    text-align: center;
+    margin-top: 300px;
+    font-size: 35px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.container {
+    margin-top: 100pxS;
+}
